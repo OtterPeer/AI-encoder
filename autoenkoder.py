@@ -113,3 +113,7 @@ print("Model kodera zapisany jako 'encoder_model.keras'")
 
 autoencoder.save('autoencoder_model.keras')
 print("Model zapisany jako 'autoencoder_model.keras'")
+
+
+
+##########################daaacac adddqd
